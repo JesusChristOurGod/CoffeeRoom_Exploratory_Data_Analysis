@@ -1,0 +1,4 @@
+# coffee.mplstyle
+axes.prop_cycle: cycler('color', ['ff7b9c', '90a959', '7d1d3f', '607196', 'a63d40' , '4a2040','69585f','005c69','e94f37', '340068' ])
+axes.facecolor: F2DCBD   # axes background color
+text.color: 150703
